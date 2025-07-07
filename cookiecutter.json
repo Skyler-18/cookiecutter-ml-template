@@ -1,0 +1,8 @@
+{
+    "project_slug": "my_ml_project",
+    "project_name": "My ML Project",
+    "author_name": "Skyler",
+    "description": "A production-ready, end-to-end machine learning pipeline project.",
+    "license": "MIT",
+    "python_interpreter": "python3"
+}
